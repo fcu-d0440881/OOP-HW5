@@ -1,4 +1,5 @@
-package fcu.iecs.oop.hw5;
+package fcu.iecs.oop.pokemon;
+
 import java.util.Random;
 public class GYM{
 	public static void fight(Pokemon p1, Pokemon p2){

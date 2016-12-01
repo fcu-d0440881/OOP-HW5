@@ -1,4 +1,5 @@
-package fcu.iecs.oop.hw5;
+package fcu.iecs.oop.pokemon;
+
 
 public class Main {
 	public static void main(String[] args){

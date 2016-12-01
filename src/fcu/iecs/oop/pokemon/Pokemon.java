@@ -1,4 +1,4 @@
-package fcu.iecs.oop.hw5;
+package fcu.iecs.oop.pokemon;
 
 public class Pokemon {
 	private String name;
